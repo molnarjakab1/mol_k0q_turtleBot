@@ -25,7 +25,7 @@ def generate_launch_description():
             ]
         ),
         # Node(
-        #     package='ros2_cpp_template',
+        #     package='mol_k0q_turtleBot',
         #     executable='simple_sub_node',
         #     output='screen',
         # ),
