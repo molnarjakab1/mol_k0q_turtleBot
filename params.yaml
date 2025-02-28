@@ -1,0 +1,5 @@
+random_number_publisher:
+  ros__parameters:
+    min_value: 10
+    max_value: 90
+    publish_frequency: 2.0
